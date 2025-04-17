@@ -31,7 +31,7 @@ This dashboard analyzes public bike usage in Montréal (BIXI) to uncover seasona
 
 ## 📁 Data Sources
 
-- **[BIXI Montréal Trip Data (2024-H1 Sample)](https://www.bixi.com/en/open-data)**  
+- **[BIXI Montréal Trip Data](https://www.bixi.com/en/open-data)**  
   Provided ride-level data including start/end time, station names, and geolocation.
 
 - **[Government of Canada Historical Weather Data](https://climate.weather.gc.ca/)**  
