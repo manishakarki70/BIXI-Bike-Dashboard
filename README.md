@@ -1,6 +1,6 @@
 # 🚲 BIXI-Montréal Usage Dashboard
 
-**BIXI** is a popular bike-sharing service in Montréal, Québec, and it's one of North America's most successful bike-sharing systems. BIXI provides public bicycles that people can rent short-term using docking stations spread throughout the city, especially from spring to fall.
+**BIXI** is a well-known bike-sharing service in Montréal, Québec, and it is one of the most successful bike-sharing systems in North America. BIXI offers public bicycles that can be rented for short periods at docking stations located throughout the city, primarily from spring to fall.
 
 ---
 
